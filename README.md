@@ -97,7 +97,10 @@ Business and organization management system.
 
 ## 📫 Contact
 
-📧 Business: vitechafrica@gmail.com  
+📧 Business: contact.vitechdev@gmail.com
+📧 contact: contact.vabidriss@gmail.com
+📱 WhatsApp: +250 795 507 001
+📱 WhatsApp: [Chat with me](https://wa.me/250795507001)
 🌐 Website: https://vitechafrica.vercel.app  
 
 ---
